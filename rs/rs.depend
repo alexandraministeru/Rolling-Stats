@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571089020 source:c:\users\ali_adm\documents\proiecte\rolling_statistics\rs\main.cpp
+	<iostream>
+	<numeric>
+	<algorithm>
+	<cmath>
+	<deque>
+
